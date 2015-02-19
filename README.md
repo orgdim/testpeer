@@ -1,6 +1,7 @@
 # chat-example ####
 @@@@@@@@@@@@@@@@@@@@
 ###################
+erwfs;dlfkjs;dlfkjsd;flksd;flks';fkd
 Yeah yeah
 This is the source code for a very simple chat example used for 
 the [Getting Started](http://socket.io/get-started/chat/) guide 
